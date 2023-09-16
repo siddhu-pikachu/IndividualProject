@@ -5,7 +5,7 @@ The complexity of placing maintaining the inventory is also hidden from the staf
 # Description
 This is the ecommerse app where client can place an order and the staff can update the inventory if they have the access password. I have implemented it using the facade design pattern.
 
-![alt text]([http://url/to/img.png](https://github.com/siddhu-pikachu/IndividualProject/blob/main/UmlDiagram.PNG))
+![alt text](https://github.com/siddhu-pikachu/IndividualProject/blob/main/UmlDiagram.PNG)
 
 # Environment
 The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
